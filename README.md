@@ -1,7 +1,7 @@
 <H3>Name : VARNIKA.P</H3>
 <H3>Register No: 212223240170</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:23.04.25</H3>
+<H3>DATE: 23.04.25</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
